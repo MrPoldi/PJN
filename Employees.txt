@@ -1,0 +1,4 @@
+Jan,Kowalski,2500
+Adam,Nowak,3000
+Maria,Nowak,2750
+Zygmunt,Szary,4300
